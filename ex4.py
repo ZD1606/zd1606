@@ -1,0 +1,12 @@
+width=17
+height=12.0
+type('width')
+type('height')
+width=width//2
+print(float(width))
+width=width/2.0
+print(int(width))
+height=height/3
+print(height)
+c=1+2*5
+print(c)
